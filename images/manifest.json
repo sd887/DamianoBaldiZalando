@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1Trouser"
+                ]
+            },
+            "height": 2600,
+            "width": 1801,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 57,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 113,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 226,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 451,
+                                                "height": 650
+                                            },
+                                            {
+                                                "width": 901,
+                                                "height": 1300
+                                            },
+                                            {
+                                                "width": 1801,
+                                                "height": 2600
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1801,
+                                        "@id": "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2600,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
