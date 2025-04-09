@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sd887.github.io/DamianoBaldiZalando/manifests/Zalandomanifest.json",
     "label" : "TMDRA Project"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sd887.github.io/DamianoBaldiZalando/manifests/Zalando",
+    "label" : "TMDRA Project"
   } ]
 }
