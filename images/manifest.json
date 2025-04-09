@@ -7,5 +7,87 @@
             "All images loaded in sd887/DamianoBaldiZalando project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "0T-Shirt"
+                ]
+            },
+            "height": 1152,
+            "width": 800,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 36
+                                            },
+                                            {
+                                                "width": 50,
+                                                "height": 72
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 144
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 288
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 576
+                                            },
+                                            {
+                                                "width": 800,
+                                                "height": 1152
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 800,
+                                        "@id": "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1152,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
