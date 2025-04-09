@@ -1,0 +1,280 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sd887.github.io/DamianoBaldiZalando/manifests/Zalandomanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "TMDRA Project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "10 images from Zalando, 10 classes of clothing as in Fashion MNIST dataset",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://d780bf20-ff0b-4270-b262-9b8e8cf60182",
+    "@type" : "sc:Sequence",
+    "label" : "",
+    "canvases" : [ {
+      "@id" : "http://9da6b052-fd65-4877-89f3-7392dd32ca09",
+      "@type" : "sc:Canvas",
+      "label" : "T-Shirt",
+      "height" : 1152,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1665e982-8ff4-4f33-b8ae-076e4532cfe3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/0T-Shirt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1152,
+          "width" : 800
+        },
+        "on" : "http://9da6b052-fd65-4877-89f3-7392dd32ca09"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9707cffb-fd08-411a-8d89-1de7dff24e9b",
+      "@type" : "sc:Canvas",
+      "label" : "Trouser",
+      "height" : 2600,
+      "width" : 1801,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4425f2d5-dabe-4068-adb2-0cef144a4753",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/1Trouser",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2600,
+          "width" : 1801
+        },
+        "on" : "http://9707cffb-fd08-411a-8d89-1de7dff24e9b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://64d40570-f446-46a5-8f7d-c398dbb9a3e8",
+      "@type" : "sc:Canvas",
+      "label" : "Pullover",
+      "height" : 2160,
+      "width" : 1500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ccf3fc29-6ebe-46c9-9670-bfd15c7e46e8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/2Pullover/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/2Pullover",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2160,
+          "width" : 1500
+        },
+        "on" : "http://64d40570-f446-46a5-8f7d-c398dbb9a3e8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c84e1ca8-3133-4b64-8119-1c9da61dce83",
+      "@type" : "sc:Canvas",
+      "label" : "Dress",
+      "height" : 2888,
+      "width" : 2000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fafbabbf-dcbb-48b8-bc73-5975acb834c7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/3Dress/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/3Dress",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2888,
+          "width" : 2000
+        },
+        "on" : "http://c84e1ca8-3133-4b64-8119-1c9da61dce83"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9f88602d-40c6-46d1-b041-b1924d723443",
+      "@type" : "sc:Canvas",
+      "label" : "Coat",
+      "height" : 1100,
+      "width" : 762,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://39ca5b27-ad2f-46fc-8e62-ae223812e661",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/4Coat/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/4Coat",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1100,
+          "width" : 762
+        },
+        "on" : "http://9f88602d-40c6-46d1-b041-b1924d723443"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://03aa6810-1372-4ecd-a140-0826e6089b2a",
+      "@type" : "sc:Canvas",
+      "label" : "Sandal",
+      "height" : 1155,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://787c686c-e6f8-4b0f-a6f3-986c99c59f00",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/5Sandal/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/5Sandal",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1155,
+          "width" : 800
+        },
+        "on" : "http://03aa6810-1372-4ecd-a140-0826e6089b2a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://79bea789-7c67-4727-a5e7-906b2bcddaa9",
+      "@type" : "sc:Canvas",
+      "label" : "Shirt",
+      "height" : 2600,
+      "width" : 1801,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1af90a12-74a4-458a-b8df-ef07c0b46aba",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/6Shirt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/6Shirt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2600,
+          "width" : 1801
+        },
+        "on" : "http://79bea789-7c67-4727-a5e7-906b2bcddaa9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a8852af8-1859-444e-818f-fc57c6b094f1",
+      "@type" : "sc:Canvas",
+      "label" : "Sneaker",
+      "height" : 576,
+      "width" : 400,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2d5c8630-fe27-4013-bcfd-b7bd8203f037",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/7Sneaker/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/7Sneaker",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 576,
+          "width" : 400
+        },
+        "on" : "http://a8852af8-1859-444e-818f-fc57c6b094f1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://38b7f8f6-aefb-445f-bc7e-d15d53195957",
+      "@type" : "sc:Canvas",
+      "label" : "Bag",
+      "height" : 1152,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://33785958-3a0e-4057-87a9-ee5ee8f430bd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/8Bag/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/8Bag",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1152,
+          "width" : 800
+        },
+        "on" : "http://38b7f8f6-aefb-445f-bc7e-d15d53195957"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dad223bb-f730-48fe-9ff6-2a68d7d9e1c7",
+      "@type" : "sc:Canvas",
+      "label" : "AnkleBoot",
+      "height" : 1155,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0000ad25-974d-48f7-8d61-240681c7f179",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/9AnkleBoot/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/9AnkleBoot",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1155,
+          "width" : 800
+        },
+        "on" : "http://dad223bb-f730-48fe-9ff6-2a68d7d9e1c7"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
