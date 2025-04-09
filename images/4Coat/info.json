@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 24,
+    "height" : 35
+  }, {
+    "width" : 48,
+    "height" : 69
+  }, {
+    "width" : 96,
+    "height" : 138
+  }, {
+    "width" : 191,
+    "height" : 275
+  }, {
+    "width" : 381,
+    "height" : 550
+  }, {
+    "width" : 762,
+    "height" : 1100
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 762,
+  "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/4Coat",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1100
+}

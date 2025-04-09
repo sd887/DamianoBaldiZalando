@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 91
+  }, {
+    "width" : 125,
+    "height" : 181
+  }, {
+    "width" : 250,
+    "height" : 361
+  }, {
+    "width" : 500,
+    "height" : 722
+  }, {
+    "width" : 1000,
+    "height" : 1444
+  }, {
+    "width" : 2000,
+    "height" : 2888
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://sd887.github.io/DamianoBaldiZalando/images/3Dress",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2888
+}
