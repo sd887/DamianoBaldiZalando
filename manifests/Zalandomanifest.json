@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Damiano Baldi",
   "sequences" : [ {
     "@id" : "http://d780bf20-ff0b-4270-b262-9b8e8cf60182",
     "@type" : "sc:Sequence",
